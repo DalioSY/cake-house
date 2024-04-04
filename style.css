@@ -97,7 +97,9 @@ p {
   background: url("./img/home-img.jpg");
   background-position: center;
   background-size: cover;
+ 
 }
+
 
 .home .content {
   height: 100vh;
@@ -108,16 +110,20 @@ p {
   max-width: 60rem;
 }
 
+
 .home .content h3 {
   font-size: 6rem;
   color: var(--main-color);
+  text-shadow: 2px 2px 2px var(--black);
 }
 
 .home .content p {
   font-size: 2rem;
-  font-weight: 100;
+  font-weight: 200;
+  font-style: normal;
   line-height: 1.8;
   padding: 1rem 0;
+  text-shadow: 2px 2px 2px var(--black);
 }
 
 .btn {

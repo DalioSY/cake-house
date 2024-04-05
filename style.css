@@ -16,7 +16,7 @@
   outline: none;
   transition: 0.2s linear;
   font-family: "Roboto", sans-serif;
-  color: #fff;
+  
 }
 
 body {
@@ -33,6 +33,7 @@ section {
 
 h3 {
   font-size: 3rem;
+  color: #fff;
 }
 
 p {
@@ -40,6 +41,7 @@ p {
   font-weight: 100;
   line-height: 1.8;
   padding: 1rem 0;
+  color: #fff;
 }
 
 /* -- Bar -- */
@@ -70,6 +72,7 @@ p {
 .navbar a {
   margin: 0 1rem;
   font-size: 1.8rem;
+  color: #fff;
 }
 
 .navbar a:hover {
@@ -81,6 +84,7 @@ p {
 .icon i {
   margin: 1rem;
   font-size: 3rem;
+  color: #fff;
 }
 
 .icon i:hover {
@@ -119,11 +123,12 @@ p {
 
 .home .content p {
   font-size: 2rem;
-  font-weight: 200;
-  font-style: normal;
+  font-weight:400 ;
+  font-style:normal;
   line-height: 1.8;
   padding: 1rem 0;
   text-shadow: 2px 2px 2px var(--black);
+  color : #fff;
 }
 
 .btn {
@@ -134,6 +139,7 @@ p {
   margin-top: 1rem;
   display: inline-block;
   border-radius: 1rem;
+  color: #fff;
 }
 
 .btn:hover {
@@ -157,6 +163,7 @@ p {
 
 .title span {
   text-transform: uppercase;
+  color: #fff;
 }
 
 .container-img {
@@ -208,17 +215,20 @@ p {
 .menu .box-container .box h3 {
     font-size: 2rem;
     padding: 1rem 0;
+    color: #fff;
 }
 
 .menu .box-container .box .price {
     font-size: 2.5rem;
     padding: 0.5rem 0;
+    color: #fff;
 }
 
 .menu .box-container .box .price span {
     font-size: 1.5rem;
     text-decoration: line-through;
     font-weight: 100;
+    
 }
 
 .menu .box-container .box:hover {
@@ -280,6 +290,7 @@ footer .share i {
   cursor: pointer;
   padding: 1rem;
   font-size: 3rem;
+  color: #fff;
 }
 
 footer .share i:hover {

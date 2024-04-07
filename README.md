@@ -18,7 +18,7 @@
 
 <h4>Link:</h4>
 
->Deploy: https://daliosy.github.io/ccake-house
+>Deploy: https://daliosy.github.io/cake-house
 
 >Repoditório: https://github.com/DalioSY/cake-house
 
